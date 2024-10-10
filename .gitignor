@@ -1,0 +1,6 @@
+# ignor README.md.
+README.md
+# ignor build/side.txt
+build/side.txt
+# ignor .doc
+*.doc
